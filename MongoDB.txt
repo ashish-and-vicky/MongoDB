@@ -5,7 +5,7 @@ Documents
 	- Document can have any datatype - as long as valid in MongoDB context
 	- User defined schema in mongoDB and they are not static or fixed
 	- MongoDB will add a key automatically for each document eg. _id
-	  eg
+	  eg.
 	{
 		"_id": "<unique-value>",
 		"firstname": "Ashish".
